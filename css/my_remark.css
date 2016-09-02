@@ -1,0 +1,19 @@
+.red {
+    color: red;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.column:first-of-type {float:left}
+.column:last-of-type {float:right}
+
+.split-70 .column:first-of-type {width: 70%; vertical-align:middle; z-index: 100}
+.split-70 .column:last-of-type {width: 30%; z-index: -1;}
+
+blockquote {
+  border-left: 0.3em solid rgba(0,0,0,0.5);
+  padding: 0 15px;
+  font-style: italic;
+}
