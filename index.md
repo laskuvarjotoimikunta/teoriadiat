@@ -44,6 +44,3 @@ template: default
 * [Jatkokoulutusteoria](? diat_jatkokoulutusteoria.md) 
 * [Turvallisuuskertaus](? diat_turvakertaus.md)
 
-
----
-

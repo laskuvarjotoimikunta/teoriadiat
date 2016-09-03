@@ -42,31 +42,31 @@ template: title
 
 ## Siirtyminen peruskoulutukseen
 
-- t9 - Uloshyppytyylit
+1. t9 - Uloshyppytyylit
 
-- t10.3, 10.6 - Selkälento ja liuku
+1. t10.3, 10.6 - Selkälento ja liuku
 
-- t11 - Sääoppi
+1. t11 - Sääoppi
 
-- t12 - Uloshyppypaikan määritys (PM)
+1. t12 - Uloshyppypaikan määritys (PM)
 
-- t13 - Varusteiden tarkastus
+1. t13 - Varusteiden tarkastus
 
-- Vaaratilanteet ja VV-toimenpiteet (kertaus) \[DIAT KESKEN\]
+1. Vaaratilanteet ja VV-toimenpiteet (kertaus) \[DIAT KESKEN\]
 
 ---
 
-## Suoritukset
+## Suoritukset (NOVA)
 
--   8" lyhyt vapaa
+1.   8" lyhyt vapaa
 
--   kaksi 5" lyhyttä vapaata
+1.  kaksi 5" lyhyttä vapaata
 
--   selkälento
+1.  selkälento
 
--   liuku
+1.  liuku
 
--   FS-liuku
+1.  FS-liuku
 
 -   paikanmääritystä, laskeutuminen kouluttajan osoittamalle alueelle,
     varusteiden tarkastusnäyte,
@@ -77,9 +77,35 @@ template: title
 
 ---
 
+## Suoritukset (PL)
+
+1.  15" vapaa
+
+1.  Suora UH
+
+1.  Sukellus UH
+
+1.  360°
+
+1.  Tynnyri & takavoltti
+
+1.  Selkälento
+
+1.  liuku
+
+1.  FS-liuku
+
+-   paikanmääritystä, laskeutuminen kouluttajan osoittamalle alueelle,
+    varusteiden tarkastusnäyte,
+
+-   *teoriatunteja ja jatkokoulutuksen teoriakoe.*
+
+-   **Yli 30vrk taukoa -&gt; kouluttajan määräämä kertaus (?)**
+
+---
 # t9 Uloshyppytyylit
 
-- Hyvä exit lyhentää kiipeämis- ja "set-up"-aikaa -&gt; monta ryhmää
+- Hyvä *exit* lyhentää kiipeämis- ja *set-up* -aikaa -&gt; monta ryhmää
   pystyy hyppäämään samalta linjalta
 
   -   vähentää potentiaalisesti vaarallista varusteiden osumista oveen tai
@@ -87,64 +113,64 @@ template: title
 
   -   parantaa exitin stabiiliutta, mikä lisää työskentelyaikaa
 
-- **"set-up"** tarkoittaa kiipeämistä ovelle "valmis"-asentoon
+- **set-up** tarkoittaa kiipeämistä ovelle "valmis" -asentoon
 
-- **"exit"** tarkoittaa uloshyppyä ja rintamasuunnan kääntämistä
+- **exit** tarkoittaa uloshyppyä ja rintamasuunnan kääntämistä
   ilmavirtaan
 
-- **"alamäki"** tarkoittaa heti uloshypyn jälkeistä aikaa, jolloin
+- **alamäki** tarkoittaa heti uloshypyn jälkeistä aikaa, jolloin
   hyppääjä näkee koneen neutraalissa asennossa.
 
 ---
 
 ## Tärkeimmät exitin osa-alueet
 
--   **"tasapaino"** tarkoittaa tasapainoa koneen ovella, mikä vaikuttaa
+-   **tasapaino** tarkoittaa tasapainoa koneen ovella, mikä vaikuttaa
     stabiiliuteen
 
--   **"tiiviys"** tarkoittaa etäisyyttä pariin ovella, mikä vaikuttaa
+-   **tiiviys** tarkoittaa etäisyyttä pariin ovella, mikä vaikuttaa
     etäisyyteen vapaassa
 
--   **"ajoitus"** tarkoittaa koko ryhmän yhtäaikaista exitiä, mikä
+-   **ajoitus** tarkoittaa koko ryhmän yhtäaikaista exitiä, mikä
     vaikuttaa etäisyyteen vapaassa
 
--   **"asento"** tarkoittaa vartalon asettamista kohti ilmavirtaa, mikä
+-   **asento** tarkoittaa vartalon asettamista kohti ilmavirtaa, mikä
     vaikuttaa exitin stabiiliuteen
 
 ---
 
-## Uloshyppytyylit - Suora UH
+## Uloshyppytyylit - Suora UH 
 
 -   Vasen jalka astimelle
 
--   Kädet oviaukon reunalle.
+-   Kädet oviaukon reunalle
 
--   Tunkeudutaan ilmavirtaan -&gt; suhteellinen ilmavirta, **älä hyppää**.
+-   Tunkeudutaan ilmavirtaan -&gt; suhteellinen ilmavirta, **älä hyppää**
 
--   Kädet sivulle nk. delta-asento.
+-   Kädet sivulle nk. delta-asento
 
 -   **Hyvä taivutus**.
 
--   Symmetria erittäin tärkeä.
+-   Symmetria erittäin tärkeä
 
 -   Ilmavirta suhteellisen heikko -&gt; asennon hallinta vaatii
     tottumista!
 
 ---
 
-## Uloshyppytyylit - Sukellus UH
+## Uloshyppytyylit - Sukellus UH (172/182)
 
--   Oikea jalka astimelle, varpaat peräsimen suuntaan.
+-   Oikea jalka astimelle, varpaat peräsimen suuntaan  (C-172/C-182)
 
--   Kädet oviaukon reunalle.
+-   Kädet oviaukon reunalle
 
--   Sukelletaan ilmavirran suuntaan taaksepäin, rinta ilmavirtaan.
+-   Sukelletaan ilmavirran suuntaan taaksepäin, rinta ilmavirtaan
 
 -   Taivutus, pää taakse, **jalat koukkuun taakse ja kädet
-    eteen leveälle.**
+    eteen leveälle**
 
 -   HUOM! Isosta oviaukosta voidaan tunkeutua siiven suuntaisesti
-    ilmavirtaan -&gt; kääntyy alas "itsekseen".
+    ilmavirtaan -&gt; kääntyy alas "itsekseen"
 
 ---
 
@@ -163,11 +189,11 @@ template: title2
 
 ## Selkälento
 
-- Käännetään asento kyljelleen käyttämällä kättä vartalossa.
+- Käännetään asento kyljelleen käyttämällä kättä vartalossa
 
-- Taivutetaan samalla asento väärinpäin, istuma-asentoon.
+- Taivutetaan samalla asento väärinpäin, istuma-asentoon
 
-- Lennetään muutama sekunti selällään.
+- Lennetään muutama sekunti selällään
 
 - Taivutetaan ja käännetään asento käyttämällä kättä vartalossa
 
@@ -177,21 +203,21 @@ template: title2
 
 ## Selkälento - turvallisuus
 
-- Rintahihnassa oleva korkeusmittari ei näytä oikein.
+- Rintahihnassa oleva korkeusmittari ei näytä oikein
 
-- Vapaapudotusnopeus kasvaa.
+- Vapaapudotusnopeus kasvaa
 
 - Jos asennon hallinta menetetään
 
   - käännetään asento vatsalleen
 
-  - otetaan perusasento taivuttamalla.
+  - otetaan perusasento taivuttamalla
 
 - Jos asentoa ei saada hallintaan
 
-  **- avataan varjo välittömästi.**
+  **- avataan varjo välittömästi**
 
-- Apuvarjo voi irrota löysästä taskustaan.
+- Apuvarjo voi irrota löysästä taskustaan
 
 - Löysä luuppi voi aiheuttaa varjon enneaikaisen avautumisen.
 
@@ -226,21 +252,21 @@ template: title2
 -   Tuulet rajoittavat hyppäämistä, sillä tuulen voimistuessa
     voimistuvat myös pyörteet. Tuulen voimistuessa myös uloshyppypaikan
     määrittäminen käy vaativammaksi ja ohjaaminen sekä
-    laskeutuminen vaikeutuvat.
+    laskeutuminen vaikeutuvat
 
--   Kerroin 0,51 -&gt; 16 solmua on 8,23m/s -&gt; yli oppilasrajan.
+-   Kerroin 0,51 -&gt; 16 solmua on 8,23m/s -&gt; yli oppilasrajan
 
 -   Ylätuulet ovat tuulia, jotka vaikuttavat hyppykorkeuksissa. Pinta-
     ja ylätuulten suunnan ero on pohjoisella pallonpuoliskolla
-    tyypillisesti oikealle noin 30° maan pyörimisliikkeen takia.
+    tyypillisesti oikealle noin 30° maan pyörimisliikkeen takia
 
--   5000ft tuulitieto GAFOR-ennusteesta on yleensä ylätuuli.
+-   5000ft tuulitieto GAFOR-ennusteesta on yleensä ylätuuli
 
 ---
 
 ## Tuuli-ilmiöt
 
--   Ylätuulen puolella = laskeutumisaleueelta UHP:lle päin
+-   Ylätuulen puolella = laskeutumisalueelta UHP:lle päin
 
 -   Maassa voi olla tyyntä, mutta ylätuulet voivat olla erittäin
     voimakkaita -&gt; ajautuma vapaapudotuksen aikana
@@ -252,30 +278,30 @@ template: title2
 -   säärintamat voimistavat tuulia
 
 -   ukkospilvien ympärillä äkillisiä ja vaarallisia tuulenmuutoksia!
-    (METAR-tiedoissa maininta CB).
+    (METAR-tiedoissa maininta CB)
 
 ---
 
 ## Pilvet
 
-- **Pääsääntoisesti pilvessä tai pilven läpi ei saa hypätä.**
+- **Pääsääntoisesti pilvessä tai pilven läpi ei saa hypätä**
 
-- **Oppilastoiminnan raja on puolipilvinen sää hyppykorkeuden alapuolella.**
+- **Oppilastoiminnan raja on puolipilvinen sää hyppykorkeuden alapuolella**
 
-- Pilvet jaetaan ala (&lt;2500m), keski (&lt;5000m) ja yläpilviin (&gt;5000m).
+- Pilvet jaetaan ala (&lt;2500m), keski (&lt;5000m) ja yläpilviin (&gt;5000m)
 
-- Pilvi yleensä kastelee varusteet ja sumentaa visiirin -&gt; kuivatus. **Näetkö mittarin?**
+- Pilvi yleensä kastelee varusteet ja sumentaa visiirin -&gt; kuivatus - **Näetkö mittarin?**
 
-- Huomaa, että kostea lämmin ilma kantaa heikommin, kuin kuiva kylmä ilma.
+- Huomaa, että kostea lämmin ilma kantaa heikommin, kuin kuiva kylmä ilma
 
 ---
 
 ## Milloin voin hypätä ja milloin pilvet estävät?
 
-- Uloshyppyhetkellä on nähtävä joko maalialue tai uloshyppypaikka.
+- Uloshyppyhetkellä on nähtävä joko maalialue tai uloshyppypaikka
 
 - Lisenssihyppääjä voi hypätä pilvikaton päällä valvotussa ilmatilassa
-  mikäli kone on varustettu satelliittinavigointilaitteella (OPS M6-1).
+  mikäli kone on varustettu satelliittinavigointilaitteella (OPS M6-1)
 
 - Pilvikerroksen pohja ja kokonaiskorkeus?
 
@@ -303,7 +329,7 @@ template: title2
     ei Cb-pilviä, vaakanäkyvyys yli 10 km, eikä ilmailulle merkittäviä
     sääesiintymiä
 
--   SKY CLEAR (SKC) = taivas selkeä
+-   SKY CLEAR (SKC) = taivas selkeä (harvoin käytetty)
 
 ---
 
@@ -331,13 +357,13 @@ template: title2
 -   Nostavat ja laskevat ilmavirtaukset ovat normaalisti 1-8 m/s.
     Ukkospilvessä virtaukset ovat jopa 30 m/s ylös ja alas
 
--   Missä on nouseva- siellä on myös laskeva -virtaus.
+-   Missä on nouseva, siellä on myös laskeva virtaus.
 
 -   Turbulenssi on tuulen ja esteiden yhteisvaikutus (10-15x este)
 
 -   **Voimakas turbulenssi voi tyhjentää varjon! -&gt; tunne hyppyalue**
 
--   **Täyttä liitoa!**
+-   **Täysliitoa turbulenssissa!**
 
 ---
 
@@ -372,7 +398,7 @@ template: title2
 
 <http://www.yr.no/>
 
-Appstoret: AeroWeather
+Appstoret: AeroWeather ja vastaavat
 
 ---
 
@@ -380,7 +406,7 @@ Appstoret: AeroWeather
 
 -   METAR-sanoma on ilmaliikenteen käyttöön tarkoitettu sääsanoma, joka
     laaditaan lentopaikan sääasemalla. Metar kertoo lentoasemalla vallitsevan
-    säätilan.
+    säätilan
 
 -   Annetaan 30min välein 20-yli ja 10-vaille:
 
@@ -419,6 +445,10 @@ Appstoret: AeroWeather
 
 ---
 
+
+## GAFOR-sanomaesimerkki
+
+
 ```
     FBFI42 EFRO 121000
 
@@ -436,6 +466,8 @@ Appstoret: AeroWeather
     GAFOR EFRO 1218 BBBB 21/25 O
 ```
 
+- Rovaniemeltä annettu ennuste // TODO: kirjoita auki
+
 ---
 
 template: title2
@@ -444,22 +476,22 @@ template: title2
 
 ---
 
-## Yleistä
+## Yleistä UHP-määrityksestä
 
 -   Koko pokalla pitää olla turvallinen pääsy laskeutumisalueelle tai
-    varalaskeutumisalueelle.
+    varalaskeutumisalueelle
 
--   Spottaaja vastaa myös perässä hyppäävistä.
+-   Spottaaja vastaa myös perässä hyppäävistä
 
 -   Lentäjälle annettava ohjeet oletetusta uloshyppypaikasta ja linjan
-    suunnasta jo ennen koneeseen nousua.
+    suunnasta jo ennen koneeseen nousua
 
 -   **UHP ja hyppylinja** määritellään aina toiminnan alkaessa ja kun
-    epäillään tuuliolosuhteiden muuttuneen.
+    epäillään tuuliolosuhteiden muuttuneen
 
 ---
 
-## Yleistä
+## Yleistä UHP-määrityksestä
 
 - UHP määritellään laskemalla yhteen **ajautuma varjon varassa
 (avauspaikka)** sekä **ajautuma vapaapudotuksessa**
@@ -478,38 +510,38 @@ template: title2
 ## Streamer - ajautuma varjon varassa
 
 - Saadaan oikea tarkka tieto varjon ajautumasta. Tai tarkka uloshyppypaikka,
-  jos hyppykorkeus on alle 1000m.
+  jos hyppykorkeus on alle 1000m
 
 - Paperi tms. liuska, jonka päässä paino putoaa 600 m:n korkeudesta n.
-  2 minuuttia.
+  2 minuuttia
 
-- Väri maastosta erottuva.
+- Väri maastosta erottuva
 
-- Alle 5 metriä pitkä näkyy huonosti.
+- Alle 5 metriä pitkä näkyy huonosti
 
-- Heitetään laskeutumisalueen päältä 600 m:n korkeudessa.
+- Heitetään laskeutumisalueen päältä 600 m:n korkeudessa
 
-- Heittämiseen lupa lentäjältä/lennonjohdolta.
+- Heittämiseen lupa lentäjältä/lennonjohdolta
 
-- Steramerin ajautuma seurataan koneesta.
+- Streamerin ajautuma seurataan koneesta
 
 ---
 
 ## Ajautuminen vapaassa
 
 -   Voidaan määrittää, jos tunnetaan tuulet eri kerroksissa 1000 m:n ja
-    uloshyppykorkeuden välillä.
+    uloshyppykorkeuden välillä
 
 -   UHP on AVAUSPAIKASTA ylätuulen suuntaan tuulen nopeus (m/s) kertaa
-    vapaapudotusaika (s).
+    vapaapudotusaika (s)
 
 -   YLÄTUULEN NOPEUS voidaan määrittää kolmella tavalla GAFOR 5000ft,
     sää lentopinnoilla -kartta tai laskemalla: lentokoneen ilmanopeus
     kertaa 1,1 (2km) ja vähennetään GPS:n näyttämä maanopeus. (Kerroin
-    on noin 1,3 @4km).
+    on noin 1,3 @4km)
 
 -   Koneen sortaminen linjalla ja muiden hyppääjien avauspaikkojen
-    seuraaminen auttaa myös.
+    seuraaminen auttaa myös
 
 ---
 
@@ -533,25 +565,26 @@ template: title2
 
 ## Uloshyppyjärjestys
 
+1.  Isot FS-muodostelmat
+
+1.  Pienet FS-muodostelmat
+
+1.  Yksittäiset mahallaan hyppääjät
+
+1.  Isot free-muodostelmat
+
+1.  Pienet free-muodostelmat
+
+1.  Yksittäiset free-hyppääjät
+
+1.  Tandemit
+
+1.  Liukuhyppääjät
+
+1.  Liitopukuhyppääjät
+
 -   Ylätuulet vaikuttavat pidempään hitaammin putoaviin hyppääjiin
 
--   Isot FS-muodostelmat
-
--   Pienet FS-muodostelmat
-
--   Yksittäiset mahallaan hyppääjät
-
--   Isot free-muodostelmat
-
--   Pienet free-muodostelmat
-
--   Yksittäiset free-hyppääjät
-
--   Tandemit
-
--   Liukuhyppääjät
-
--   Liitopukuhyppääjät
 
 ---
 
@@ -563,13 +596,13 @@ template: title2
 
   -   käsimerkein
   -   huutamalla
-  -   sisäpuhelimella.
+  -   sisäpuhelimella
 
-- Korjaukset annettava rauhallisesti ja selkeästi.
+- Korjaukset annettava rauhallisesti ja selkeästi
 
-- Turhia korjauksia vältettävä.
+- Turhia korjauksia vältettävä
 
-- Koneen on annettava asettua suoraan ennen seuraavaa tarkastusta.
+- Koneen on annettava asettua suoraan ennen seuraavaa tarkastusta
 
 ---
 
@@ -577,41 +610,41 @@ template: title2
 
 - Katsottava suoraan alaspäin
 
-  -   verrataan esim. laskemalla katse horisontista.
+  -   verrataan esim. laskemalla katse horisontista
 
 - Koneen lentoasento
 
-  -   nousussa  katsotaan liikaa eteenpäin
-  -   laskussa  katsotaan liikaa taaksepäin
-  -   kallellaan  katsotaan liikaa sivulle.
+  -   nousussa katsotaan liikaa eteenpäin
+  -   laskussa katsotaan liikaa taaksepäin
+  -   kallellaan katsotaan liikaa sivulle
 
 - Hyppääjän virheet
 
-  -   katsoo koneen sisältä katsotaan liikaa sivulle
-  -   katsoo eteenpäin  ennakoi uloshyppyä liikaa
-  -   katsoo paikkaa udelleen kiipeämisen aikana  voi näyttää vaikka mitä.
+  -   katsoo koneen sisältä: katsotaan liikaa sivulle
+  -   katsoo eteenpäin: ennakoi uloshyppyä liikaa
+  -   katsoo paikkaa uudelleen kiipeämisen aikana: voi näyttää vaikka mitä
 
 ---
 
 ## Ennen uloshyppyä ja uloshyppy
 
-- Hyppylupa varmistettava.
+- Hyppylupa varmistettava
 
-- Ilmatilan vapaus varmistettava.
+- Ilmatilan vapaus varmistettava
 
   -   toiset hyppääjät
 
-  -   toiset koneet (risteävät lentolinjat).
+  -   toiset koneet (risteävät lentolinjat)
 
-- Tarvittaessa ajetaan uusi linja.
+- Tarvittaessa ajetaan uusi linja
 
 - Ryhmien välit 8-10 s
 
-  -   kiipeämiseen kuluva aika otettava huomioon.
+  -   kiipeämiseen kuluva aika otettava huomioon
 
-- Oven aukipysyminen varmistettava.
+- Oven aukipysyminen varmistettava
 
-- **Varusteet on tarkastettava ennen uloshyppyä**.
+- **Varusteet on tarkastettava ennen uloshyppyä**
 
 ---
 
@@ -623,7 +656,7 @@ template: title2
 
 ## Yleistä
 
-- Varusteet on tarkastettava aina ennen hypylle lähtöä uloshyppyä
+- Varusteet on tarkastettava aina ennen koneeseen kiipeämistä ja ennen uloshyppyä
 
   -   oppilaan varusteet tarkastaa hyppymestari.
 
@@ -640,19 +673,19 @@ template: title2
 ## I vaihe - ennen varusteiden pukemista
 
 -   Varusteiden varaaminen, painon, kokemuksen ja hyppymestarin ohjeiden
-    mukaisesti.
+    mukaisesti
 
--   Hyppytoimintaan soveltuva vaatetus.
+-   Hyppytoimintaan soveltuva vaatetus
 
--   Varjokokonaisuuden ja automaattilaukaisimenasiakirjat.
+-   Varjokokonaisuuden ja automaattilaukaisimen asiakirjat
 
--   Varusteiden ulkoinen kunto.
+-   Varusteiden ulkoinen kunto
 
--   Vaijereiden ja kaapeleiden esteetön kulku.
+-   Vaijereiden ja kaapeleiden esteetön kulku
 
--   Automaattilaukaisimen käynnistys ja säätö.
+-   Automaattilaukaisimen käynnistys ja säätö
 
--   Varusteiden sopivuus ja säätö.
+-   Varusteiden sopivuus ja säätö
 
 ---
 
@@ -674,13 +707,13 @@ template: title2
 
   -   Kengät
 
-  -   Pelastusliivit
+  -   Pelastusliivit (mikäli lähistöllä vesialueita)
 
 ---
 
 ## II vaihe - ennen koneeseen nousua
 
-- Varusteet on puettu oikein.
+- Varusteet on puettu oikein
 
 - Kaikki tarvittavat varusteet ovat mukana oikeilla paikoillaan
 
@@ -688,13 +721,13 @@ template: title2
 
   -   koukkupuukko saatavilla
 
-  -   kahvat omilla paikoillaan ja näkyvät.
+  -   kahvat omilla paikoillaan ja näkyvät
 
-- Lukot, soljet, hihnat ja läpät ovat kiinni (*kaveritarkistus*).
+- Lukot, soljet, hihnat ja läpät ovat kiinni (*kaveritarkistus*)
 
-- Hihnojen päät työnnetty valjaskumilenkkien alta hihnataskuihin.
+- Hihnojen päät työnnetty valjaskumilenkkien alta hihnataskuihin
 
-- Automaattilaukaisin on päällä ja oikein säädetty.
+- Automaattilaukaisin on päällä ja oikein säädetty
 
 ---
 
@@ -704,10 +737,9 @@ template: title2
 
 - Lasit hyppykireydellä / visiiri kiinni.
 
-- Rinta-, vatsa- ja reisihihnat kireällä ja lukot kiinni.
+- Rinta- ja reisihihnat kireällä ja lukot kiinni
 
-- Kolmirengaslukot ja irtipäästövaijerien päät ok, varavarjon
-pakkolaukaisuhihnan (RSL) lukko.
+- Kolmirengaslukot ja irtipäästövaijerien päät ok, varavarjon pakkolaukaisuhihnan (RSL) lukko
 
 - Kahvat käyttöjärjestyksessä
 
@@ -716,7 +748,7 @@ pakkolaukaisuhihnan (RSL) lukko.
 
   - harjoittele vv-toimenpiteet täysin liikeradoin, mieti samalla tärkeät korkeudet!
 
-- Korkeusmittari näyttää oikein ja on luettavissa.
+- Korkeusmittari näyttää oikein ja on luettavissa
 
 ---
 
@@ -726,12 +758,10 @@ pakkolaukaisuhihnan (RSL) lukko.
 
   -   pinnitarkastus, jos läpät ovat auenneet
 
-  -   tarraläpän pinni hyvä tarkastaa aina.
-
 - Varusteiden tarkastus ennen uloshyppyä voi huolimattomasti
-  suunnitellulla hypyllä jäädä tekemättä.
+  suunnitellulla hypyllä jäädä tekemättä
 
-- Rutiinista poikkeaminen luo hypylle epävarman tunteen.
+- Rutiinista poikkeaminen luo hypylle epävarman tunteen
 
 ---
 
@@ -739,25 +769,23 @@ pakkolaukaisuhihnan (RSL) lukko.
 
 1.  Tarkastetaan, että solkia on kiinni kolme:
 
-    •   Vasemman jalkahihnan solki
+    - Vasemman jalkahihnan solki
 
-    •   Oikean jalkahihnan solki
+    - Oikean jalkahihnan solki
 
-    •   Rintahihnan solki
+    - Rintahihnan solki
 
 2.  Tarkastetaan, että kahvoja on kolme ja ne ovat kiinni:
 
-    •   Päävarjon avauskahva
+    - Päävarjon avauskahva
 
-    •   Päävarjon irtipäästöpampula
+    - Päävarjon irtipäästöpampula
 
-    •   Varavarjon avauskahva
+    - Varavarjon avauskahva
 
 3.  Tarkastetaan, että
 
-    - kolmirengaslukot ovat kiinni ja oikein oikealla
-
-    - ja vasemmalla
+    - kolmirengaslukot ovat kiinni ja oikein oikealla ja vasemmalla
 
     - RSL on kiinnitetty
 
