@@ -105,7 +105,7 @@ template: title
 ---
 # t9 Uloshyppytyylit
 
-- Hyvä *exit* lyhentää kiipeämis- ja *set-up* -aikaa -&gt; monta ryhmää
+- Uloshyppyharjoituksien tarkoituksena on lyhentää kiipeämis- ja *set-up* -aikaa -&gt; monta ryhmää
   pystyy hyppäämään samalta linjalta
 
   -   vähentää potentiaalisesti vaarallista varusteiden osumista oveen tai
