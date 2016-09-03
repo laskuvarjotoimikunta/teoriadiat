@@ -39,14 +39,11 @@ template: default
 
 # Teoriapaketit
 
-[Peruskoulutusteoria](? diat_peruskoulutusteoria.md)
 
-[Jatkoulutusteoria](? diat_jatkokoulutusteoria.md)
+* [Peruskoulutusteoria](? diat_peruskoulutusteoria.md) 
+* [Jatkokoulutusteoria](? diat_jatkokoulutusteoria.md) 
+* [Turvallisuuskertaus](? diat_turvakertaus.md)
 
-[Turvallisuuskertaus](? diat_turvakertaus.md)
 
 ---
 
-# Peruskoulutukseen teoriat tunneittain
-
-TODO!
