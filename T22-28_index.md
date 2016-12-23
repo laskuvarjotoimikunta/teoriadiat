@@ -1,5 +1,4 @@
 
-
 layout: true
 name: title
 class: middle, center
@@ -30,17 +29,22 @@ background-size: no-repeat
 background-size: contain
 
 ---
+
 template: title
 
-# TEORIADIAT
+# **TEORIA - A-LISENSSIÄ VARTEN**
 
 ---
-template: default
 
-# Teoriapaketit
+# **Kohti A-lisenssiä**
 
-* [Peruskoulutusteoria](? diat_peruskoulutusteoria.md)
-* [Jatkokoulutusteoria](? diat_jatkokoulutusteoria.md)
-* [Lisenssiteoriat](? diat_lisenssiteoria.md)
-* [Turvallisuuskertaus](? diat_turvakertaus.md)
-
+-   t22 - Kaluston tarkastus ja huolto
+-   t23 - Pakkaustarkistus
+-   t24 - Määräykset, lait ja ohjeet
+-   t25 - Käytännön hyppytoiminta
+-   t26 - Erikoishypyt
+-   t27 - Fysiologia
+-   t28 - Riskitekijät, toiminta onnettomuustilanteissa
+-   t9, 10.3, 10.6, 11 - 13, 18-21 - Kertaus \[DIAT KESKEN\]
+-   Vaaratilanteet ja VV-toimenpiteet (kertaus) \[DIAT KESKEN\]
+---
