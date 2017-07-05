@@ -178,12 +178,14 @@ template: title
 
 - Ilmailulaki
 
+- NCO / EASA
+
 - Trafin ohjeet: OPS M6-1 ja PEL T4-3
 
-- http://www.trafi.fi/ilmailu/saadokset/ ilmailumaarayskokoelma
+- http://www.trafi.fi/ilmailu/saadokset/ilmailumaarayskokoelma
 
 - Laskuvarjohyppääjien toiminnalliset ohjeet ja kelpoisuusvaatimukset,
-20.4.2014
+09.03.2017
 
 - Turvallisuus- ja kalustotiedotteet
 
@@ -197,6 +199,7 @@ Ilmailulaki
 
 -   Lentotyölupaa ei vaadita Liikenteen turvallisuusviraston määräysten
     mukaisesti tapahtuviin …. laskuvarjohyppylentoihin. 77§
+
 -   Liikenteen turvallisuusvirasto voi antaa … urheilulaskuvarjoa…
     koskevia teknisiä, toiminnallisia …koskevia määräyksiä …
     valmisteltaessa on kuultava alan
@@ -206,55 +209,86 @@ Ilmailulaki
 
 # **Määräykset OPS M6-1 - hyppypaikka ja hyppääminen**
 
+-   Laskuvarjohypyllä päävarjo on aukaistava siten, että laskuvarjo on
+    täysin avautunut 600 metrin korkeudessa.
+
 -   Laskuvarjohypyllä on noudatettava ATS-elimen ohjeita ja saatava
     lennonjohtoelimeltä hyppylupa, jos ilmatilassa
     edellytetään lennonjohtoselvitystä.
--   Hyppääjän on uloshyppyhetkellä nähtävä laskeutumisalue
-    tai uloshyppypaikka. Tästä vaatimuksesta voidaan poiketa, jos
-    laskuvarjohyppy suoritetaan kokonaan valvotussa ilmatilassa ja
-    käytettävässä ilma-aluksessa on ilmailukäyttöön tarkoitettu
-    satelliittinavigointilaite tai muu vastaavalla tarkkuudella toimiva
-    navigointilaite ja kaikki laskuvarjohyppääjät ovat vähintään
-    itsenäisiä hyppääjiä. Ilmatilaluokissa G ja G+ laskuvarjolla ei saa
-    hypätä pilven läpi.
+
+-   Hyppääjän on uloshyppyhetkellä nähtävä laskeutumisalue tai uloshyppypaikka.
+    Tästä vaatimuksesta voidaan poiketa, jos laskuvarjohyppy suoritetaan kokonaan
+    valvotussa ilmatilassa ja/tai radiovyöhykkeellä (RMZ), pilvikorkeus on
+    vähintään 3000 jalkaa ja il- ma-aluksessa on varustus, jolla se voi paikantaa
+    sijaintinsa riittävällä tarkkuudella. Poikkeusta sovellettaessa kaikkien
+    laskuvarjohyppääjien on oltava vähintään itsenäisiä hyppääjiä (kohta 4.1).
+    Muussa G-luokan ilmatilassa kuin radiovyöhykkeellä laskuvarjolla ei saa
+    hypätä pilven läpi.
 
 ---
 
 # **Määräykset OPS M6-1 - hyppypaikka ja hyppääminen**
 
--   Laskuvarjohypyllä päävarjo on aukaistava siten, että laskuvarjo on
-    täysin avautunut 600 metrin korkeudessa.
--   Ilmailulain 81 §:n 1 momentin tarkoittamilla lentopaikoilla on
-    laskuvarjohyppyihin saatava lentopaikan päällikön tai hänen
-    edustajansa lupa. Muuten maanomistajan lupa.
+-  Lentoasemilla luvan voi antaa lennonjohto tornin ollessa auki.
+   Laskuvarjohyppytoiminnan pelisäännöt on syytä kirjata lentopaikan paikalli-
+   siin toimintaohjeisiin, samoin kuin ohjeet muistakin lentopaikalla
+   harjoitetta- vista lentotoiminnan muodoista ja niiden yhteensovittamisesta.
+   Tämä koskee niin lentoasemia kuin valvomattomia lentopaikkoja.
+
+-  Maanomistajan lupa muilla paikoilla.
 
 ---
 
 # **Määräykset OPS M6-1 - Ilma-alus ja sen päälikkö**
 
--   Jos ilma-alusta käytetään laskuvarjohyppylentoihin ilman matkustamon
-    ovea tai kuomua tai ovi tai kuomu avattuna, tähän on oltava
-    ilma-aluksen valmistajan tai toimivaltaisen
-    ilmailuviranomaisen hyväksyntä. (Lentokäsikirjassa maininta)
+- Jos kansallisen sääntelyn piiriin kuuluvaa ilma-alusta käytetään
+  laskuvarjohyppylentoihin ilman matkustamon ovea tai kuomua tai ovi tai kuomu
+  avattuna, tähän on oltava ilma-aluksen valmistajan tai toimivaltaisen
+  ilmailuviranomaisen hyväksyntä. Lentokäsikirjasta, lento-ohjekirjasta tai sen
+  liitteestä on käytävä ilmi hyväksyntä sekä laskuvarjohyppytoimintaan
+  tarvittavat ohjeet.
+
 -   Ilma-aluksen päälliköllä on laskuvarjohyppylennolla oltava vähintään
+
     100 tunnin kokonaislentokokemus ja vähintään 75 tunnin lentokokemus
     kyseisen ryhmän ilmaaluksella.
+
 -   Ilma-aluksen tai laitteen päällikön on oltava etukäteen perehtynyt
     laskuvarjohyppyihin sekä kyseisen ilma-aluksen tai laitteen
     ominaisuuksiin laskuvarjohyppylennoilla.
+
 -   Laitteen päälliköllä on oltava matkustajankuljetusoikeus.
 
 ---
 
--   Laskuvarjohyppylennolla on ilma-aluksen kuormaa laskettaessa
-    käytettävä henkilöiden todellista massaa, kun matkustajia on alle 10
-    OPS 6M-1
--   Matkustajilla on oltava turvavyö,
+# EASA / NCO
+
+-   Ilma-aluksen kuorman, massan ja painopisteen aseman on oltava kaikissa
+    lentotoiminnan vaiheissa niiden rajoitusten mukaisia, joista määrätään
+    lentokäsikirjassa tai vastaavassa asiakirjassa.
+
 -   Laskuvarjohyppylennoilla ilma-aluksessa tai laitteessa on oltava
     puukko tai vastaava teräase ohjaajan ja hyppääjien saatavilla.
--   Ilma-aluksessa on oltava istuinvyö jokaiselle henkilölle, ja vyön on
-    oltava kiinnitettynä rullauksen, lentoonlähdön ja laskun aikana.
-    Ilman istuinvyötä omalla vastuulla enintään kymmentä matkustajaa.
+
+- NCO.SPEC.PAR.110 Istuimet ja istuinvyöt
+
+-  Lattiaa voidaan käyttää istuimena edellyttäen, että tehtäväasiantuntijalla
+  on mahdollisuus pitää jostain kiinni tai kiinnittää itsensä.
+
+- EASA tai Trafi eivät ole tässä vaiheessa antaneet tarkentavaa ohjeistusta
+  hyväksyttävistä menettelyistä...
+
+---
+
+# Lisähappi
+
+- NCO.SPEC.PAR.115 Lisähappi:
+
+- Tehtäväasiantuntija (hyppääjä) saa olla ilman lisähappea:
+
+- Yli 13.000 jalassa max 6 minuuttia
+
+- Yli 15.000 jalassa max 3 minuuttia
 
 ---
 
@@ -262,8 +296,10 @@ Ilmailulaki
 
 -   Hyppypaikalla on oltava ennalta järjestettynä olosuhteisiin nähden
     tarpeellinen pelastus- ja ensiapuvalmius.
+
 -   Hyppypaikalla on oltava tuulen suuntaa ja voimakkuutta
     osoittava välineistö.
+
 -   Oppilashypyt on tehtävä koulutuspäällikön
     hyväksymälle hyppypaikalle. Hyppypaikan suositeltu esteetön vähim-
     mäiskoko on vallitsevan maatuulen suunnassa 300 metriä ja tuuleen
